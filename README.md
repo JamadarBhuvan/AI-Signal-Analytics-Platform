@@ -46,4 +46,4 @@ Open http://127.0.0.1:5000 and upload `sample_signal.csv` to try it.
 
 ## Author
 
-Bhuvan Jamadar
+Jamadar Bhuvan

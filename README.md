@@ -34,7 +34,7 @@ requirements.txt     Dependencies
 ## Run Locally
 
 ```bash
-git clone https://github.com/rahuljamadar174-wq/AI-Signal-Analytics-Platform.git
+git clone https://github.com/JamadarBhuvan/AI-Signal-Analytics-Platform.git
 cd AI-Signal-Analytics-Platform
 python -m venv venv
 source venv/Scripts/activate    # Windows Git Bash (Mac/Linux: source venv/bin/activate)
